@@ -13,7 +13,7 @@
 | 3 | **hello-python** | Python CLI + PyInstaller | 📦 GitHub Releases | [→ Открыть](https://github.com/poluhindanil123-cpu/hello-python) |
 | 4 | **hello-dotnet** | C#/.NET CLI | 📦 GitHub Releases | [→ Открыть](https://github.com/poluhindanil123-cpu/hello-dotnet) |
 | 5 | **hello-gui** | Go + Fyne (GUI) | 📦 GitHub Releases | [→ Открыть](https://github.com/poluhindanil123-cpu/hello-gui) |
-
+| 6 | **hello-gui** | Go + Fyne (GUI) | 📦 GitHub Releases | [→ Открыть](https://github.com/poluhindanil123-cpu/hello-gui) |
 ---
 
 ## 🦀 1. hello-rust — CI/CD с публикацией в GHCR
